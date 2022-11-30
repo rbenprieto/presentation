@@ -5,21 +5,14 @@
 <br>
 <h2 align="center">Sobre mí en código 💻:</h2>
 
-```js
-
-const legin098 = {
- pronombres: "el" | "a el",
- lenguajes:[CSS, HTML, Java, JavaScript, Python],
- Herramientas:[BonitaSoft, MUi, React, TailwindCss]
-}
+```
 
 ```
 <br>
 <h2 align="center">Actualmente estoy aprendiendo 📖:</h2>
 
-<p align="center"><i>- NodeJs</i></p>
-<p align="center"><i>- VueJs</i></p>
-<p align="center"><i>- Django</i></p>
+<p align="center"><i>- React</i></p>
+<p align="center"><i>- Node js</i></p>
 
 <h2 align="center">Puedes encontrarme 🌎:</h2>
 
@@ -28,14 +21,9 @@ const legin098 = {
     <img align="center" alt="rbenprieto | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
  
-  <a href="https://www.instagram.com/jesuscruzsuarez">
+  <a href="mailto:rbenprieto@outlook.com">
     &nbsp
-    <img align="center" alt="legin098 | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
- 
-  <a href="mailto:rubenhernandoprietosolano@gmail.com">
-    &nbsp
-    <img align="center" alt="rbenprieto | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="rbenprieto | Outlook" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Outlook.svg" />
   </a>
 </div>
 
