@@ -32,7 +32,7 @@ conocimientos = {
  
   <a href="mailto:rbenprieto@outlook.com">
     &nbsp
-    <img align="center" alt="rbenprieto | Outlook" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Outlook.svg" />
+    <img align="center" alt="rbenprieto | Outlook" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gmail.svg" />
   </a>
 </div>
 
