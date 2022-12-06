@@ -6,7 +6,12 @@
 <h2 align="center">Sobre mí en código 💻:</h2>
 
 ```
-
+conocimientos = { 
+  "lenguaje": [ 
+    {"lenguaje principal": "Python"},
+    {"lenguaje secundario": "JS"}
+  ]
+  "Frameworks": ["Django", "Flask"]
 ```
 <br>
 <h2 align="center">Actualmente estoy aprendiendo 📖:</h2>
