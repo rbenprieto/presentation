@@ -12,7 +12,7 @@ conocimientos = {
       {"principal": "Django"}, 
       {"secundario": "Flask"}
    ]
-  "Herramientas": [GitHub, Gitlab, Docker, PostgreSQL, MongoDB, BootStrap]
+  "Herramientas": [GitHub, Docker, PostgreSQL, MongoDB, BootStrap]
 }
 ```
 <br>
