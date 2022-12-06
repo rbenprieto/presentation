@@ -7,17 +7,21 @@
 
 ```
 conocimientos = { 
-  "lenguaje": [ 
-    {"lenguaje principal": "Python"},
-    {"lenguaje secundario": "JS"}
-  ]
-  "Frameworks": ["Django", "Flask"]
+  "lenguajes": [Python, CSS, HTML, JavaScript],
+  "Frameworks": [
+      {"principal": "Django"}, 
+      {"secundario": "Flask"}
+   ]
+  "Herramientas": [GitHub, Gitlab, Docker, PostgreSQL, MongoDB, BootStrap]
+}
 ```
 <br>
 <h2 align="center">Actualmente estoy aprendiendo 📖:</h2>
 
 <p align="center"><i>- React</i></p>
 <p align="center"><i>- Node js</i></p>
+<p align="center"><i>- Flutter</i></p>
+
 
 <h2 align="center">Puedes encontrarme 🌎:</h2>
 
